@@ -1,0 +1,28 @@
+{
+  "Ana": {
+    "ScopedHits": "2,070",
+    "ScopedShots": "3,352",
+    "NanoBoostsApplied": "166",
+    "NanoBoostAssists": "161",
+    "Eliminations": "574",
+    "FinalBlows": "206",
+    "SoloKills": "50",
+    "ShotsFired": "17,805",
+    "ShotsHit": "1,898",
+    "DamageDone": "161,599",
+    "ObjectiveKills": "247",
+    "MeleeFinalBlows": "23",
+    "HealingDone": "167,316",
+    "OffensiveAssists": "333",
+    "SelfHealing": "14,190",
+    "Deaths": "413",
+    "GamesPlayed": "20",
+    "GamesWon": "10",
+    "ObjectiveTime": "39:26",
+    "TimeSpentonFire": "14:04",
+    "DefensiveAssists": "438",
+    "UnscopedShots": "10,934",
+    "UnscopedHits": "6,455",
+    "EnemiesSlept": "284"
+  }
+}
